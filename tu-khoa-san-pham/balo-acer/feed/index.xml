@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Balo Acer &#8211; This is my website</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/balo-acer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vangcoder.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 19:44:52 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Balo Acer Predator SUV</title>
+		<link>https://vangcoder.github.io/mywordpress/san-pham/balo-acer-predator-suv/</link>
+					<comments>https://vangcoder.github.io/mywordpress/san-pham/balo-acer-predator-suv/#respond</comments>
+		
+		<dc:creator><![CDATA[vang]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 19:39:05 +0000</pubDate>
+				<guid isPermaLink="false">https://vangcoder.github.io/mywordpress/?post_type=product&#038;p=11</guid>
+
+					<description><![CDATA[<strong>Thông tin chung:</strong>
+<ul>
+ 	<li><strong>Hãng sản xuất: </strong>Acer</li>
+ 	<li><strong>Tình trạng: </strong>Mới</li>
+</ul>
+<span style="color: #ff0000;"><b>ƯU ĐÃI G-FEST NGÀY 01/01: </b><em>(Số lượng duy nhất 10 chiếc)</em></span>
+
+<span style="color: #ff0000;"><b>Mỗi khách hàng mua tối đa 1 sản phẩm trên 1 đơn hàng</b></span>]]></description>
+										<content:encoded><![CDATA[<h2><strong>Balo Acer Predator SUV</strong></h2>
+<h2><strong>THÔNG SỐ KĨ THUẬT: </strong></h2>
+<div class="scroll-table">
+<table id="tblGeneralAttribute" class="table table-bordered" border="3" cellspacing="3" cellpadding="3">
+<tbody>
+<tr class="row-info">
+<td>Thương hiệu</td>
+<td>Acer</td>
+</tr>
+<tr class="row-info">
+<td>Màu sắc</td>
+<td>&#8211;</td>
+</tr>
+<tr class="row-info">
+<td>Chất liệu</td>
+<td>Polyester</td>
+</tr>
+<tr class="row-info">
+<td>Phù hợp với laptop</td>
+<td>17&#8243;</td>
+</tr>
+<tr class="row-info">
+<td>Bảo hành</td>
+<td>&#8211;</td>
+</tr>
+</tbody>
+</table>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vangcoder.github.io/mywordpress/san-pham/balo-acer-predator-suv/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
